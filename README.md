@@ -61,13 +61,6 @@ Listado de paquetes de R/Python o librerías del sistema necesarias:
 - R >= 4.0
 - Packages: `tidyverse`, `rmarkdown`, `bslib`
 
-## 🚀 Uso
-Instrucciones paso a paso para clonar y ejecutar el análisis en la terminal:
-```bash
-git clone [https://github.com/JorgeGenn/nombre-del-proyecto.git](https://github.com/JorgeGenn/nombre-del-proyecto.git)
-cd nombre-del-proyecto
-Rscript src/01_qc_cleaning.R
----
 --------------------------------------------------------------------------------------------------------------------------
 
 # Hi there! I'm Jorge Hurtado Soriano 👋
@@ -100,3 +93,17 @@ B.Sc. in Genomic Sciences (UACM) | M.Sc. in Bioinformatics (UNIR) & M.Sc. in Big
 1. **Martínez-Magaña, J. J., Hurtado-Soriano, J., et al. (2024).** *Towards a Novel Frontier in the Use of Epigenetic Clocks in Epidemiology.* Archives of Medical Research, 55(5), 103033.
 2. **Martínez-Magaña, J. J., Hurtado-Soriano, J., et al. (2024).** *Potential use of epigenetic clocks to understand factors associated with aging at the population level and in public health.* Gaceta Médica de México, 160(3), 341-343.
 3. **Hurtado-Soriano, J. (2024).** *Exploratory Metabolomic Analysis of Individuals with Cognitive Impairment from the Obesity, Sarcopenia, and Frailty Cohort.* B.Sc. Thesis, UACM.
+
+
+
+
+
+nombre-del-proyecto/
+├── README.md              # Descripción del proyecto, dependencias y cómo ejecutarlo
+├── .gitignore             # Archivos que Git debe ignorar (ej. datos pesados, .Rhistory)
+├── data/                  # (Opcional) Datos de entrada pequeñitos o muestras de prueba
+├── src/                   # Scripts principales en R / Python / Bash
+│   ├── 01_qc_cleaning.R
+│   └── 02_eda_plots.R
+├── docs/                  # Reportes generados (HTML de RMarkdown, Quarto o PDFs)
+└── results/               # Figuras (.png, .svg) y tablas generadas (.csv, .xlsx)
