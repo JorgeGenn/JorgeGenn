@@ -1,7 +1,7 @@
 # ¡Hola! Soy Jorge Hurtado Soriano 👋
 
 🧬 **Bioinformático & Científico de Datos en Ciencias de la Vida**
-Licenciado en Ciencias Genómicas (UACM) | M.Sc. en Bioinformática (UNIR) & M.Sc. en Big Data (TECH)
+Licenciado en Ciencias Genómicas (UACM) | M.Sc. en Bioinformática (UNIR) (Cursando) & M.Sc. en Analisis visual  y Big Data (TECH) (Cursando)
 
 📍 **Ubicación:** Ciudad de México, México  
 ✉️ **Contacto:** jorgehurt.sor@gmail.com  
