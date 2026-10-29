@@ -5,7 +5,7 @@ Licenciado en Ciencias Genómicas (UACM) | M.Sc. en Bioinformática (UNIR) (Curs
 
 📍 **Ubicación:** Ciudad de México, México  
 ✉️ **Contacto:** jorgehurt.sor@gmail.com  
-🔗 **Redes:** [LinkedIn](https://www.linkedin.com/in/jorge-hurtado-soriano/) | [ResearchGate](researchgate.net/profile/Jorge-Hurtado-Soriano) | [Tesis UACM](http://repositorioinstitucionaluacm.mx/jspui/handle/123456789/2984)
+🔗 **Redes:** [LinkedIn](https://www.linkedin.com/in/jorge-hurtado-soriano/) | [ResearchGate](https://www.researchgate.net/profile/Jorge-Hurtado-Soriano) | [Tesis UACM](http://repositorioinstitucionaluacm.mx/jspui/handle/123456789/2984)
 
 ---
 
