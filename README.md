@@ -205,7 +205,9 @@ El flujo de trabajo se centra en un enfoque desde primeros principios, evaluando
 - Programación y narrativa mediante **RMarkdown** en un entorno **RStudio**.
 - Gestión de dependencias mediante `renv` utilizando **Posit Package Manager** para paquetes binarios estables.
 - Aislamiento a nivel de sistema utilizando **Docker** sobre una imagen base de **Ubuntu Linux** para gestionar librerías del sistema y herramientas de línea de comandos.
-Docker Container 
+
+
+Docker Container
 
 ```bash
 git clone https://github.com/JorgeGenn/Anlisis-estadisticos-R-en-genes.git
