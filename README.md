@@ -5,7 +5,7 @@ B.Sc. in Genomic Sciences (UACM) | M.Sc. in Bioinformatics (UNIR) & M.Sc. in Big
 
 📍 **Location:** Mexico City, Mexico  
 ✉️ **Contact:** jorgehurt.sor@gmail.com  
-🔗 **Links:** [LinkedIn](https://linkedin.com/in/your-profile) | [ResearchGate](https://researchgate.net/profile/your-profile) | [B.Sc. Thesis (UACM)](http://repositorioinstitucionaluacm.mx/jspui/handle/123456789/2984)
+🔗 **Links:** [LinkedIn]([linkedin.com/in/jorge-hurtado-soriano]) | [ResearchGate](https://www.researchgate.net/profile/Jorge-Hurtado-Soriano) | [B.Sc. Thesis (UACM)](http://repositorioinstitucionaluacm.mx/jspui/handle/123456789/2984)
 
 ---
 
