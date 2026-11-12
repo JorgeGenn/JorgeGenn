@@ -129,7 +129,7 @@ sudo docker run -d -p 8787:8787 -e PASSWORD=Simulation --name simpsons simpsons-
    name: rstudio
    ```
 ---
-###########################################################################################################################
+#####################################################################################
 # ¡Hola! Soy Jorge Hurtado Soriano 👋
 
 🧬 **Bioinformático y Científico de Datos en Ciencias de la Vida**  
