@@ -68,6 +68,25 @@ The workflow focuses on a first-principles approach, rigorously evaluating empir
  - Scripting and narrative via **RMarkdown** in an **RStudio** environment.
  - Dependency management via `renv` utilizing **Posit Package Manager** for stable binary packages.
  - System-level isolation using **Docker** running an **Ubuntu Linux** base image to handle system libraries and command-line toolchains.
+
+Docker Container 
+
+```bash
+git clone https://github.com/JorgeGenn/Anlisis-estadisticos-R-en-genes.git
+
+cd Analisis-estadisticos-R-en-genes
+
+1. Build the Docker image:
+
+  sudo docker build -t biostats-unir .
+
+2. Run the container and access RStudio Server at http://localhost:8787:
+
+   sudo docker run -d -p 8787:8787 --name analisis_genes -e PASSWORD=docker biostats-unir
+
+   Password: docker
+   name: rstudio
+```
 ---------------------------------------------------------------------------------------------------------------------------
 # 🧬 Applied Biostatistical Analysis of Gene Expression in *The Simpsons* Population
 
@@ -91,6 +110,25 @@ mis_paquetes <- c(
   "reshape", "ggplot2", "car", "pROC", "broom", "kableExtra"
 )
 ```
+Docker Container 
+
+   ```bash
+git clone https://github.com/JorgeGenn/Simulation_Simpsons.git
+
+cd Simulation_Simpsons
+
+1. Build the Docker image:
+
+ sudo docker build -t simpsons-biostats .
+
+2. Run the container and access RStudio Server at http://localhost:8787:
+
+sudo docker run -d -p 8787:8787 -e PASSWORD=Simulation --name simpsons simpsons-biostats
+
+   Password: Simulation
+   name: rstudio
+   ```
+---
 ###########################################################################################################################
 # ¡Hola! Soy Jorge Hurtado Soriano 👋
 
@@ -167,7 +205,25 @@ El flujo de trabajo se centra en un enfoque desde primeros principios, evaluando
 - Programación y narrativa mediante **RMarkdown** en un entorno **RStudio**.
 - Gestión de dependencias mediante `renv` utilizando **Posit Package Manager** para paquetes binarios estables.
 - Aislamiento a nivel de sistema utilizando **Docker** sobre una imagen base de **Ubuntu Linux** para gestionar librerías del sistema y herramientas de línea de comandos.
+Docker Container 
 
+```bash
+git clone https://github.com/JorgeGenn/Anlisis-estadisticos-R-en-genes.git
+
+cd Analisis-estadisticos-R-en-genes
+
+1. Build the Docker image:
+
+  sudo docker build -t biostats-unir .
+
+2. Run the container and access RStudio Server at http://localhost:8787:
+
+   sudo docker run -d -p 8787:8787 --name analisis_genes -e PASSWORD=docker biostats-unir
+
+   Password: docker
+   name: rstudio
+
+```
 ---
 
 # 🧬 Análisis Bioestadístico Aplicado de la Expresión Génica en la Población de *Los Simpson*
@@ -191,3 +247,21 @@ mis_paquetes <- c(
   "reshape", "ggplot2", "car", "pROC", "broom", "kableExtra"
 )
 ```
+Docker Container 
+
+   ```bash
+git clone https://github.com/JorgeGenn/Simulation_Simpsons.git
+
+cd Simulation_Simpsons
+
+1. Build the Docker image:
+
+ sudo docker build -t simpsons-biostats .
+
+2. Run the container and access RStudio Server at http://localhost:8787:
+
+sudo docker run -d -p 8787:8787 -e PASSWORD=Simulation --name simpsons simpsons-biostats
+
+   Password: Simulation
+   name: rstudio
+   ```
